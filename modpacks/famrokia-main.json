@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-06-27T21:13:18.392Z",
+  "updated_at": "2026-06-27T21:45:13.669Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -335,6 +335,21 @@
       "category": "fabric",
       "size_mb": 0.8,
       "required": false
+    }
+  ],
+  "servers": [
+    {
+      "name": "Фамрокия",
+      "ip": "famrock.goida.host",
+      "port": 25565
+    }
+  ],
+  "configs": [
+    {
+      "path": "config/figura.json",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-18c2b42d031a-figura.json",
+      "sha512": "18c2b42d031a4c328379fc7ad945126d793d9b40f94b466014e8dd70a6dcf33181c4081b5d642ef5568c70b2d4a16fb4d71b0789bb8e515d62dc7e22aa4ecdf0",
+      "overwrite": false
     }
   ]
 }
