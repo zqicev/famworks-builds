@@ -1,16 +1,22 @@
 {
   "id": "famworks-main",
-  "name": "FamWorks",
-  "description": "Основная сборка команды FamWorks на Fabric.",
-  "long_description": "Основная сборка команды FamWorks. Включает моды для оптимизации, удобства интерфейса и геймплея. Регулярно обновляется командой.",
+  "name": "FamWorks съёмки",
+  "description": "Сборка для съёмок FamWorks",
+  "long_description": "Основная сборка команды FamWorks. Включает моды необходимые для съёмочного процесса. Содержит изменённые модификации.",
   "mc_version": "1.21.1",
   "loader": "fabric",
-  "loader_version": "0.16.5",
-  "fabric_api_version": "0.110.0+1.21.1",
-  "updated_at": "2025-06-01T00:00:00Z",
+  "loader_version": "0.18.4",
+  "fabric_api_version": "0.116.12+1.21.1",
+  "updated_at": "2026-06-27T20:10:29.116Z",
   "changelog": [
-    { "version": "1.21.1", "description": "Обновление до 1.21.1, добавлены новые моды." },
-    { "version": "1.20.4", "description": "Оптимизация производительности, фикс вылетов." }
+    {
+      "version": "1.21.1",
+      "description": "Обновление до 1.21.1"
+    },
+    {
+      "version": "1.20.1",
+      "description": "Съёмки UNDO, REDO"
+    }
   ],
   "mods": [
     {
@@ -41,16 +47,6 @@
       "version": "1.8.0",
       "category": "Графика",
       "size_mb": 3.4,
-      "required": false
-    },
-    {
-      "id": "journeymap",
-      "name": "JourneyMap",
-      "modrinth_id": "lfHFW1mp",
-      "filename": "journeymap-fabric-1.21.1-6.0.0.jar",
-      "version": "6.0.0",
-      "category": "Карта",
-      "size_mb": 6.1,
       "required": false
     }
   ]
