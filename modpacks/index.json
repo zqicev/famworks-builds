@@ -1,15 +1,6 @@
 {
   "modpacks": [
     {
-      "id": "famworks-main",
-      "name": "FamWorks съёмки",
-      "description": "Сборка для съёмок FamWorks",
-      "mc_version": "1.21.1",
-      "loader": "fabric",
-      "loader_version": "0.18.4",
-      "updated_at": "2026-06-27T20:10:29.116Z"
-    },
-    {
       "id": "famrokia-main",
       "name": "Фамрокия",
       "description": "Приватный ванильный приключенческий сервер",
