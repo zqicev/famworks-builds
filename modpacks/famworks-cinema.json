@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-07-17T18:04:29.543Z",
+  "updated_at": "2026-07-17T18:19:07.417Z",
   "changelog": [],
   "mods": [
     {
@@ -321,6 +321,17 @@
       "category": "fabric",
       "size_mb": 0.1,
       "required": false
+    },
+    {
+      "id": "figura-custom-0-1-6-rc-3-mc1-21-1-fabric",
+      "name": "figura-custom-0.1.6-rc.3-mc1.21.1-fabric",
+      "filename": "figura-custom-0.1.6-rc.3-mc1.21.1-fabric.jar",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/figura-custom-0.1.6-rc.3-mc1.21.1-fabric.jar",
+      "sha512": "391fef67466a2614acef48daee9c9986cbbcda357cf7995e78258c090d6af10899221caf83a5f09c8893bed3436663a2301117d3b3951a8f6e4d9d92ac1e21ed",
+      "version": "",
+      "category": "Кастом",
+      "size_mb": 2.6,
+      "required": true
     }
   ],
   "resourcepacks": [
