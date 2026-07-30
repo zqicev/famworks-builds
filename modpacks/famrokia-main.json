@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-06-27T21:45:13.669Z",
+  "updated_at": "2026-07-30T13:43:01.535Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -25,17 +25,6 @@
       "category": "Кастом",
       "size_mb": 0,
       "required": true
-    },
-    {
-      "id": "figura-custom-0-1-6-rc-3-mc1-21-1-fabric",
-      "name": "figura-custom-0.1.6-rc.3-mc1.21.1-fabric",
-      "filename": "figura-custom-0.1.6-rc.3-mc1.21.1-fabric.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/figura-custom-0.1.6-rc.3-mc1.21.1-fabric.jar",
-      "sha512": "391fef67466a2614acef48daee9c9986cbbcda357cf7995e78258c090d6af10899221caf83a5f09c8893bed3436663a2301117d3b3951a8f6e4d9d92ac1e21ed",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 2.6,
-      "required": false
     },
     {
       "id": "fpemotes-1-0-0",
@@ -334,6 +323,19 @@
       "version": "2.15.2+1.21.1",
       "category": "fabric",
       "size_mb": 0.8,
+      "required": false
+    },
+    {
+      "id": "customfigura",
+      "name": "CustomFigura",
+      "modrinth_id": "rfJd7kfx",
+      "modrinth_version_number": "0.1.6-rc.3+1.21.1-d7138bd",
+      "download_url": "https://cdn.modrinth.com/data/rfJd7kfx/versions/IYMhm4IY/figura-custom-0.1.6-rc.3-mc1.21.1-fabric.jar",
+      "filename": "figura-custom-0.1.6-rc.3-mc1.21.1-fabric.jar",
+      "sha512": "391fef67466a2614acef48daee9c9986cbbcda357cf7995e78258c090d6af10899221caf83a5f09c8893bed3436663a2301117d3b3951a8f6e4d9d92ac1e21ed",
+      "version": "0.1.6-rc.3+1.21.1-d7138bd",
+      "category": "decoration",
+      "size_mb": 2.6,
       "required": false
     }
   ],
