@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-08-18T15:36:54.065Z",
+  "updated_at": "2026-08-18T15:40:19.589Z",
   "changelog": [
     {
       "version": "1.21.1",
