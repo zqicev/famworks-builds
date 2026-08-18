@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-08-18T15:40:19.589Z",
+  "updated_at": "2026-08-18T15:55:25.020Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -725,6 +725,12 @@
       "sha512": "124a8e3157608d5a11d15ee1d228ef6361fcf6aef64f2091c68b52a5d9a314ce6f6fd2bb171887aa3d75ef96305fe33e5b3903cd45a51d302e6242f56c727b85",
       "overwrite": false,
       "extract": true
+    },
+    {
+      "path": "config/figura.json",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-989945e6ee08-figura.json",
+      "sha512": "989945e6ee0899ecc3bb944b5d4c4d4a00c482baec970a9977cb9c9cb2d803086af025243af9a9392335fe11b5e84ec37535ae6180e65237385f1e65300e6893",
+      "overwrite": false
     }
   ],
   "shaders": [
