@@ -7,22 +7,9 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-08-18T14:48:41.934Z",
+  "updated_at": "2026-08-18T14:53:52.141Z",
   "changelog": [],
   "mods": [
-    {
-      "id": "sodium",
-      "name": "Sodium",
-      "modrinth_id": "AANobbMI",
-      "modrinth_version_number": "mc1.21.1-0.8.12-fabric",
-      "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar",
-      "filename": "sodium-fabric-0.8.12+mc1.21.1.jar",
-      "sha512": "8afe411eec65a9f677611ed6390ce656e5a3572f9be473e5dca51ae882a9426a547cd2e8c793278577bb14c17e48158030b11753108926ef33698614bd94ed7f",
-      "version": "mc1.21.1-0.8.12-fabric",
-      "category": "fabric",
-      "size_mb": 1.5,
-      "required": true
-    },
     {
       "id": "iris",
       "name": "Iris Shaders",
@@ -670,6 +657,19 @@
       "version": "",
       "category": "Кастом",
       "size_mb": 0.2,
+      "required": true
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "modrinth_id": "AANobbMI",
+      "modrinth_version_number": "mc1.21.1-0.8.12-fabric",
+      "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar",
+      "filename": "sodium-fabric-0.8.12+mc1.21.1.jar",
+      "sha512": "8afe411eec65a9f677611ed6390ce656e5a3572f9be473e5dca51ae882a9426a547cd2e8c793278577bb14c17e48158030b11753108926ef33698614bd94ed7f",
+      "version": "mc1.21.1-0.8.12-fabric",
+      "category": "fabric",
+      "size_mb": 1.5,
       "required": true
     }
   ],
