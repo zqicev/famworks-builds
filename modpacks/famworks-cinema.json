@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-08-18T14:53:52.141Z",
+  "updated_at": "2026-08-18T14:54:48.450Z",
   "changelog": [],
   "mods": [
     {
@@ -663,14 +663,14 @@
       "id": "sodium",
       "name": "Sodium",
       "modrinth_id": "AANobbMI",
-      "modrinth_version_number": "mc1.21.1-0.8.12-fabric",
-      "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar",
-      "filename": "sodium-fabric-0.8.12+mc1.21.1.jar",
-      "sha512": "8afe411eec65a9f677611ed6390ce656e5a3572f9be473e5dca51ae882a9426a547cd2e8c793278577bb14c17e48158030b11753108926ef33698614bd94ed7f",
-      "version": "mc1.21.1-0.8.12-fabric",
+      "modrinth_version_number": "mc1.21.1-0.6.13-fabric",
+      "download_url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "filename": "sodium-fabric-0.6.13+mc1.21.1.jar",
+      "sha512": "13032e064c554fc8671573dadb07bc70e6ea2f68706c65c086c4feb1d2f664346a3414cbf9d1367b42b8d063a35e40f2f967ef9af31642e1f0093b852161fe91",
+      "version": "mc1.21.1-0.6.13-fabric",
       "category": "fabric",
-      "size_mb": 1.5,
-      "required": true
+      "size_mb": 1.2,
+      "required": false
     }
   ],
   "resourcepacks": [
