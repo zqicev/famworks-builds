@@ -359,6 +359,7 @@
     }
   ],
   "character": {
-    "idle": "https://raw.githubusercontent.com/zqicev/famworks-builds/main/modpacks/anim/famrokia-idle.animation.json"
+    "idle": "https://raw.githubusercontent.com/zqicev/famworks-builds/main/modpacks/anim/famrokia-idle.animation.json",
+    "scene": "https://raw.githubusercontent.com/zqicev/famworks-builds/main/modpacks/scene/famrokia.gltf"
   }
 }
