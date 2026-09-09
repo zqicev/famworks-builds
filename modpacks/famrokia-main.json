@@ -357,5 +357,8 @@
       "sha512": "18c2b42d031a4c328379fc7ad945126d793d9b40f94b466014e8dd70a6dcf33181c4081b5d642ef5568c70b2d4a16fb4d71b0789bb8e515d62dc7e22aa4ecdf0",
       "overwrite": false
     }
-  ]
+  ],
+  "character": {
+    "idle": "https://raw.githubusercontent.com/zqicev/famworks-builds/main/modpacks/anim/famrokia-idle.animation.json"
+  }
 }
