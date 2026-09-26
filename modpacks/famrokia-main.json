@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-08-16T16:33:11.905Z",
+  "updated_at": "2026-09-26T17:57:11.442Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -346,8 +346,7 @@
   "servers": [
     {
       "name": "Фамрокия",
-      "ip": "famrock.goida.host",
-      "port": 25565
+      "ip": "famrokia.famworks.ru"
     }
   ],
   "configs": [
