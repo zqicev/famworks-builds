@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-09-26T17:57:11.442Z",
+  "updated_at": "2026-09-28T20:33:01.878Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -340,6 +340,19 @@
       "version": "0.1.6-rc.3+1.21.1-d7138bd",
       "category": "decoration",
       "size_mb": 2.6,
+      "required": false
+    },
+    {
+      "id": "vivecraft",
+      "name": "Vivecraft",
+      "modrinth_id": "wGoQDPN5",
+      "modrinth_version_number": "1.21.1-1.3.15-fabric",
+      "download_url": "https://cdn.modrinth.com/data/wGoQDPN5/versions/piq9oGyl/vivecraft-1.21.1-1.3.15-fabric.jar",
+      "filename": "vivecraft-1.21.1-1.3.15-fabric.jar",
+      "sha512": "c5d3b705aa8d505d1b033aa6576f1c2addf9079ffa3ea9deb4d3a47154380faa2f4bae7139e7f4a8c67f6b6e8e633e7de8b559998215342f71f9b3f5a32401f7",
+      "version": "1.21.1-1.3.15-fabric",
+      "category": "fabric",
+      "size_mb": 5.7,
       "required": false
     }
   ],
