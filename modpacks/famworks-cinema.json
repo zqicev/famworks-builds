@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-10-02T08:55:24.283Z",
+  "updated_at": "2026-10-02T09:19:21.221Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -573,39 +573,6 @@
       "required": false
     },
     {
-      "id": "irl-flashback-1-21-1-1-0-0",
-      "name": "irl-flashback-1.21.1-1.0.0",
-      "filename": "irl-flashback-1.21.1-1.0.0.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/irl-flashback-1.21.1-1.0.0.jar",
-      "sha512": "d7838b247e136714fb9eb52740cdc8e56ea578e107e38aaeb7c2dfbe7b6b542bd16a6f1bdff6e4a5d5740084c8a8c6f06bd30e75460b8b36f83aa9b093eabefc",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 0,
-      "required": true
-    },
-    {
-      "id": "flashback-cameramocap-1-0-0",
-      "name": "flashback-cameramocap-1.0.0",
-      "filename": "flashback-cameramocap-1.0.0.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/flashback-cameramocap-1.0.0.jar",
-      "sha512": "8e3c193850ebf889f5de4caad4717e83f3dfb88cbe4e4dcc745785798f93f8cfd65ab0a7a35226128ad0b8a18a083543d732cc95bb909ccf0af870805be2a574",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 0.1,
-      "required": true
-    },
-    {
-      "id": "flashback-iris-curves-0-1-0",
-      "name": "flashback-iris-curves-0.1.0",
-      "filename": "flashback-iris-curves-0.1.0.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/flashback-iris-curves-0.1.0.jar",
-      "sha512": "06a3a6582157c959b857f009e9264ea5cb4fef49e90986f15f6a4f8653c820e536a691a3319bf3acb88ebdd3989daf30753284e5341f1c0eb20998acdfe6c623",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 0,
-      "required": true
-    },
-    {
       "id": "famfigurarig-1-0-13",
       "name": "famfigurarig-1.0.13",
       "filename": "famfigurarig-1.0.13.jar",
@@ -700,6 +667,36 @@
       "version": "1.1.8+mc1.21.1",
       "category": "FamWorks",
       "size_mb": 7.74,
+      "required": true
+    },
+    {
+      "id": "flashbackmocap",
+      "name": "Flashback Camera Mocap",
+      "famworks_id": "flashbackmocap",
+      "filename": "flashback-cameramocap-1.0.0.jar",
+      "version": "1.0.0",
+      "category": "FamWorks",
+      "size_mb": 0.06,
+      "required": true
+    },
+    {
+      "id": "irl-flashback",
+      "name": "IRL Lights x Flashback",
+      "famworks_id": "irl-flashback",
+      "filename": "irl-flashback-1.0.0.jar",
+      "version": "1.0.0",
+      "category": "FamWorks",
+      "size_mb": 0.02,
+      "required": true
+    },
+    {
+      "id": "flashback_iris_curves",
+      "name": "Flashback Iris Curves",
+      "famworks_id": "flashback_iris_curves",
+      "filename": "flashback-iris-curves-0.1.0.jar",
+      "version": "0.1.0",
+      "category": "FamWorks",
+      "size_mb": 0.03,
       "required": true
     }
   ],
