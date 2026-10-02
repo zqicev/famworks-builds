@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-10-01T16:03:24.685Z",
+  "updated_at": "2026-10-02T08:55:24.283Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -219,17 +219,6 @@
       "version": "",
       "category": "Кастом",
       "size_mb": 2.6,
-      "required": true
-    },
-    {
-      "id": "irl-redactor-1-21-1-flashback-1-1-5",
-      "name": "irl-redactor-1.21.1-flashback-1.1.5",
-      "filename": "irl-redactor-1.21.1-flashback-1.1.5.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/irl-redactor-1.21.1-flashback-1.1.5.jar",
-      "sha512": "f560370fea1254bda701ab6e2f34bd71e00bc8b28e979f94921fc74d0c0c84c2cb5eee319af0ad22a49702f9a7b9b6678d4c87558c284c888961f7b592cd1068",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 7.7,
       "required": true
     },
     {
@@ -702,18 +691,27 @@
       "category": "fabric",
       "size_mb": 45,
       "required": false
+    },
+    {
+      "id": "irl-redactor",
+      "name": "IRL Redactor",
+      "famworks_id": "irl-redactor",
+      "filename": "irl-redactor-1.1.8+mc1.21.1.jar",
+      "version": "1.1.8+mc1.21.1",
+      "category": "FamWorks",
+      "size_mb": 7.74,
+      "required": true
     }
   ],
   "resourcepacks": [
     {
       "id": "fampack",
       "name": "FamPack",
+      "famworks_id": "fampack",
       "filename": "FamPack.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/FamPack.zip",
-      "sha512": "46eb771690f2a382e9ca069a63dbe0e86a3a2674491e9d5e29acc61b6dcc9db9d08fd0cdf529296272a2831f7a3ff57d35f118a70028d651ae14bfe9fb1ba242",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 25.5,
+      "version": "1.0.0",
+      "category": "FamWorks",
+      "size_mb": 25.49,
       "required": true
     }
   ],
