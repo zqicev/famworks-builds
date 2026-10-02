@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-09-28T20:33:01.878Z",
+  "updated_at": "2026-10-02T08:52:48.410Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -19,28 +19,6 @@
     }
   ],
   "mods": [
-    {
-      "id": "famrockcore-1-0-0",
-      "name": "famrockcore-1.0.0",
-      "filename": "famrockcore-1.0.0.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/famrockcore-1.0.0.jar",
-      "sha512": "1837e64146f1494eba6e8f53556c106c3e2e2a22b24a5a185bc40a7f3fd94dbae88d0ab16950dcd0fc33c8267130cf779f80108c74f57c7ff6c78c89cdb7e8a6",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 0,
-      "required": true
-    },
-    {
-      "id": "fpemotes-1-0-0",
-      "name": "fpemotes-1.0.0",
-      "filename": "fpemotes-1.0.0.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/fpemotes-1.0.0.jar",
-      "sha512": "be243e672d1c62457a3fdf038166ec2cadb21534541d6cbe0f4f2c7c32f1e97caac4dcf994323280855dbb4eb738c27d971b9ad5801a9df399c364e1f156eff2",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 0.2,
-      "required": false
-    },
     {
       "id": "architectury-api",
       "name": "Architectury API",
@@ -353,6 +331,26 @@
       "version": "1.21.1-1.3.15-fabric",
       "category": "fabric",
       "size_mb": 5.7,
+      "required": false
+    },
+    {
+      "id": "famrockcore",
+      "name": "FamrockCore",
+      "famworks_id": "famrockcore",
+      "filename": "famrockcore-1.0.0.jar",
+      "version": "1.0.0",
+      "category": "FamWorks",
+      "size_mb": 0.03,
+      "required": true
+    },
+    {
+      "id": "fpemotes",
+      "name": "First-Person Emote Camera",
+      "famworks_id": "fpemotes",
+      "filename": "fpemotes-1.0.0.jar",
+      "version": "1.0.0",
+      "category": "FamWorks",
+      "size_mb": 0.19,
       "required": false
     }
   ],
