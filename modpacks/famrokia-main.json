@@ -7,8 +7,12 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-10-02T08:52:48.410Z",
+  "updated_at": "2026-10-02T09:44:38.373Z",
   "changelog": [
+    {
+      "version": "1.21.1",
+      "description": "Добавили авто-обновляющиеся моды FamWorks"
+    },
     {
       "version": "1.21.1",
       "description": "Добавлен CustomFigura через Modrinth"
