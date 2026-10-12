@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-10-12T06:17:09.284Z",
+  "updated_at": "2026-10-12T06:17:45.567Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -342,6 +342,18 @@
       "version": "1.0.0",
       "category": "FamWorks",
       "size_mb": 0.19,
+      "required": false
+    },
+    {
+      "id": "customfigura",
+      "name": "CustomFigura",
+      "modrinth_id": "rfJd7kfx",
+      "download_url": "https://cdn.modrinth.com/data/rfJd7kfx/versions/APjZzSz5/figura-0.1.6%2B1.21.1-fabric-mc.jar",
+      "sha512": "76b246e770be106166473f776b7353d4f6a86885590b4dc395a1b9b3bccb2fa02b2094464592636829bfd4c5839ebd5b43feef3be6df945f7e08449f56ac6cc6",
+      "filename": "figura-0.1.6+1.21.1-fabric-mc.jar",
+      "version": "0.1.6+1.21.1",
+      "category": "Мод",
+      "size_mb": 2.6,
       "required": false
     }
   ],
