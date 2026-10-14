@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-10-14T15:49:29.728Z",
+  "updated_at": "2026-10-14T15:49:43.639Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -345,6 +345,16 @@
       "category": "Мод",
       "size_mb": 2.6,
       "required": false
+    },
+    {
+      "id": "famrockcore",
+      "name": "FamrockCore",
+      "famworks_id": "famrockcore",
+      "filename": "famrockcore-1.1.0.jar",
+      "version": "1.1.0",
+      "category": "FamWorks",
+      "size_mb": 0.06,
+      "required": true
     }
   ],
   "servers": [
