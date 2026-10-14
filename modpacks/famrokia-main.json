@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.18.4",
   "fabric_api_version": "0.116.12+1.21.1",
-  "updated_at": "2026-10-12T06:17:45.567Z",
+  "updated_at": "2026-10-14T15:49:29.728Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -323,16 +323,6 @@
       "category": "fabric",
       "size_mb": 5.7,
       "required": false
-    },
-    {
-      "id": "famrockcore",
-      "name": "FamrockCore",
-      "famworks_id": "famrockcore",
-      "filename": "famrockcore-1.0.0.jar",
-      "version": "1.0.0",
-      "category": "FamWorks",
-      "size_mb": 0.03,
-      "required": true
     },
     {
       "id": "fpemotes",
