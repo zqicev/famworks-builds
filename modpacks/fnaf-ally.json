@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-10-17T16:35:50.438Z",
+  "updated_at": "2026-10-17T18:49:48.968Z",
   "changelog": [],
   "mods": [
     {
@@ -861,6 +861,12 @@
       "sha512": "901645cb578a40c487545ccd0caa23154ba012dad34cf2450b670f88696305c57d5f0823a997f6ec2d2565e6d7a1e08a9546fae5ff8445131a70c98d9f9a6e55",
       "overwrite": false,
       "extract": true
+    },
+    {
+      "path": "shaderpacks/BSL_v10.1.3_IRLights.zip.txt",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-1cab19b76e8c-BSL_v10.1.3_IRLights.zip.txt",
+      "sha512": "1cab19b76e8cbddecc7e72d0e77f3b8d26a957a294a2ae0d30cdaeda01803f4adb151aa11bd5f1a9a253a1d51a8a9215990bac96d02a106040fe6150eac7e310",
+      "overwrite": false
     }
   ],
   "resourcepacks": [
