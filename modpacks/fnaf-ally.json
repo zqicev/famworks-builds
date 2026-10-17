@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-10-17T18:49:48.968Z",
+  "updated_at": "2026-10-17T19:20:55.769Z",
   "changelog": [],
   "mods": [
     {
@@ -828,13 +828,6 @@
   ],
   "for_map": true,
   "configs": [
-    {
-      "path": "saves.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-1de17fdc1003-saves.zip",
-      "sha512": "1de17fdc100309c630a2058d04f253e8a209ef2a5b6710962d4cf91f7b6237da0e750bbdcb125c82112a0fa5a6f2426507d722d7d46cefa4b71708e62b9db0a4",
-      "overwrite": false,
-      "extract": true
-    },
     {
       "path": "config.zip",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-f5b9b454df25-config.zip",
