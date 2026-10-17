@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-10-17T14:29:06.498Z",
+  "updated_at": "2026-10-17T14:40:43.278Z",
   "changelog": [],
   "mods": [
     {
@@ -829,12 +829,6 @@
   "for_map": true,
   "configs": [
     {
-      "path": "options.txt",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-327e3710c7d4-options.txt",
-      "sha512": "327e3710c7d442c829c9bcc706ea38c9535cc91344bf9a2f76ea8451d940e053d06c3293f686f563b17fc40e98e5d77bccb1b5b82f14d03fabe17b5e797d936f",
-      "overwrite": false
-    },
-    {
       "path": "saves.zip",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-1de17fdc1003-saves.zip",
       "sha512": "1de17fdc100309c630a2058d04f253e8a209ef2a5b6710962d4cf91f7b6237da0e750bbdcb125c82112a0fa5a6f2426507d722d7d46cefa4b71708e62b9db0a4",
@@ -847,6 +841,12 @@
       "sha512": "f5b9b454df257a59a07641e61fd97299cc64b276033d0824a150a6dee043235e467b9353f8ba7a16f65d1c0e84368910f7d472d4ec64e704c1d338a458e9b107",
       "overwrite": false,
       "extract": true
+    },
+    {
+      "path": "options.txt",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-327e3710c7d4-options.txt",
+      "sha512": "327e3710c7d442c829c9bcc706ea38c9535cc91344bf9a2f76ea8451d940e053d06c3293f686f563b17fc40e98e5d77bccb1b5b82f14d03fabe17b5e797d936f",
+      "overwrite": false
     }
   ],
   "resourcepacks": [
