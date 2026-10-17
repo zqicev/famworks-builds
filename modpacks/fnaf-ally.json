@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-10-17T14:15:33.867Z",
+  "updated_at": "2026-10-17T14:27:31.577Z",
   "changelog": [],
   "mods": [
     {
@@ -835,15 +835,15 @@
       "overwrite": false
     },
     {
-      "path": "config/emotecraft.json",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-0b2928bc54a3-emotecraft.json",
-      "sha512": "0b2928bc54a3eb098e2b41c18af2d2dcedaa5aaae1c216bd01d9332b3e6d850517a1568fb268de815f7b37885f9ad59b219b97404ea95c8edf6022ffa924dda8",
+      "path": "saves.zip",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-1de17fdc1003-saves.zip",
+      "sha512": "1de17fdc100309c630a2058d04f253e8a209ef2a5b6710962d4cf91f7b6237da0e750bbdcb125c82112a0fa5a6f2426507d722d7d46cefa4b71708e62b9db0a4",
       "overwrite": false
     },
     {
-      "path": "config/emotecraft_emote_map.json",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-6bd56a5f2bfd-emotecraft_emote_map.json",
-      "sha512": "6bd56a5f2bfd22c15516e6d836f421e76f77a7efba038c9a8b5e06b91b6aeb9a63ccc8eae3f2e09f58d1ab6238ead97d339d82249936774bcaebd75ed261a084",
+      "path": "config.zip",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-f5b9b454df25-config.zip",
+      "sha512": "f5b9b454df257a59a07641e61fd97299cc64b276033d0824a150a6dee043235e467b9353f8ba7a16f65d1c0e84368910f7d472d4ec64e704c1d338a458e9b107",
       "overwrite": false
     }
   ],
