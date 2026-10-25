@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-10-19T10:58:16.929Z",
+  "updated_at": "2026-10-25T16:06:55.263Z",
   "changelog": [],
   "mods": [
     {
@@ -490,17 +490,6 @@
       "required": false
     },
     {
-      "id": "irlights-flashlight-1-0-2-mc1-21-1",
-      "name": "irlights-flashlight-1.0.2+mc1.21.1",
-      "filename": "irlights-flashlight-1.0.2+mc1.21.1.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/irlights-flashlight-1.0.2%2Bmc1.21.1.jar",
-      "sha512": "44f60cfa3b474aff053e25c8798bbafc24e502e8f1c6f54871ab17076666ffbe16ea9223e1845f263d12ae95723f15543eb69efb3a08b74ed60553f337e59e0b",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 0.2,
-      "required": false
-    },
-    {
       "id": "lambdynamiclights",
       "name": "LambDynamicLights - Dynamic Lights",
       "filename": "lambdynamiclights-4.8.10+1.21.1.jar",
@@ -811,6 +800,17 @@
       "download_url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
       "sha512": "ce8db36e77f089f091986b6e8bea1c33433bbcffc7a47fa18d04dea5ecd4910286943600a85b4773fdf4ed5405f52f3c0dc08fea8b1551d7725a26e1f6ef2879",
       "category": "Мод"
+    },
+    {
+      "id": "irlights_flashlight",
+      "name": "IRLights Flashlight",
+      "famworks_id": "irlights_flashlight",
+      "famworks_version": "1.0.5+mc1.21.1",
+      "filename": "irlights-flashlight-1.0.5+mc1.21.1.jar",
+      "version": "1.0.5+mc1.21.1",
+      "category": "FamWorks",
+      "size_mb": 0.19,
+      "required": false
     }
   ],
   "shaders": [
@@ -856,16 +856,15 @@
       "overwrite": false
     },
     {
-      "path": "saves.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-60581b3291f8-saves.zip",
-      "sha512": "60581b3291f8368767ff06a97558c2f02f6144508811d0bcd21bd641aa50dcd33d240833e7fcdd8f8835912b38aef8f5da46a3a1f6e17840462c7145e50e4a05",
-      "overwrite": false,
-      "extract": true
-    },
-    {
       "path": "options.txt",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-ee232fb3cbcf-options.txt",
       "sha512": "ee232fb3cbcf2e516f6b59b19a034a32389c504c3a4c37132114f708474a57ea6b425b571508ca4c764e310c2942483972211855d52ee40312e99d4e8eedb13c",
+      "overwrite": false
+    },
+    {
+      "path": "config/saves.zip",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-e74c38ca958f-saves.zip",
+      "sha512": "e74c38ca958fdab710febce1c8fc73011aa930162396b7e49f1556a578e139937f6588d926d74abbe956af28f910cdaee0bfee0e44740d9a581c8023088fa85f",
       "overwrite": false
     }
   ],
