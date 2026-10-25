@@ -1,13 +1,13 @@
 {
   "id": "fnaf-ally",
-  "name": "FNAF: ALLY",
+  "name": "FNAF: THE ALLY",
   "description": "Сюжетная карта на 1-2 человека",
   "long_description": "Переживите 5 ночей у фредди в одиночку или с другом. Сидеть в офисе больше не получится, прячьтесь от аниматроников и постарайтесь не умереть",
   "mc_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-10-25T16:06:55.263Z",
+  "updated_at": "2026-10-25T16:07:35.578Z",
   "changelog": [],
   "mods": [
     {
