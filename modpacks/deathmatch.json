@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.20.1",
   "fabric_api_version": "",
-  "updated_at": "2026-10-28T11:52:09.033Z",
+  "updated_at": "2026-10-28T12:14:03.307Z",
   "changelog": [],
   "mods": [
     {
@@ -592,6 +592,12 @@
       "path": "shaderpacks/BSL_v10.1p1.zip.txt",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-bb365a2e44e4-BSL_v10.1p1.zip.txt",
       "sha512": "bb365a2e44e4e94d595d0e39c5cc74357c3567ba0fff86fe4999e793d41d005d6489b5f2182bf5bcc5c8d0424e70e6814e156d37105e1dedbb13f7dfbf95b484",
+      "overwrite": false
+    },
+    {
+      "path": "options.txt",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-4b662545cc45-options.txt",
+      "sha512": "4b662545cc45f2c2404e027b6daf23914e7e0700ac3341405df6224db50ba77fe3fba9d373ad356888dbfba678d425b3260a6e5f44b69212e42a459d95cbacbe",
       "overwrite": false
     }
   ],
