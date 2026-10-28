@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.20.1",
   "fabric_api_version": "",
-  "updated_at": "2026-10-28T11:46:03.498Z",
+  "updated_at": "2026-10-28T11:52:09.033Z",
   "changelog": [],
   "mods": [
     {
@@ -566,7 +566,7 @@
       "name": "DM",
       "filename": "DM.zip",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/DM.zip",
-      "sha512": "524ef85e181b053d7592f4a4c5eb1381033a1434a4853dd02a4b93b65834b4772c84ef5193f1d60a0fc815fc776576d96e80d9be4643bf7a02a7b930ac0678b2",
+      "sha512": "56793f898dff1b58d0e60eccf519a020a7ef3f9018a1d8102d110c0ddc970e39a789cafb9b64a82332d7d12a56fd4a69f643bcddeb7876136d9abf9ca2ac8c18",
       "version": "",
       "category": "Кастом",
       "size_mb": 30.7,
