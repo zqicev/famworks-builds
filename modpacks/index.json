@@ -38,7 +38,8 @@
       "mc_version": "1.21.1",
       "loader": "fabric",
       "loader_version": "0.20.1",
-      "updated_at": "2026-10-28T11:07:56.456Z"
+      "updated_at": "2026-10-28T11:07:56.456Z",
+      "icon": "icon/deathmatch.png"
     }
   ]
 }
