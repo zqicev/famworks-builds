@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.20.1",
   "fabric_api_version": "",
-  "updated_at": "2026-10-28T11:14:04.230Z",
+  "updated_at": "2026-10-28T11:14:33.320Z",
   "changelog": [],
   "mods": [
     {
@@ -608,5 +608,6 @@
       "ip": "5.83.140.210:25656",
       "port": 25565
     }
-  ]
+  ],
+  "for_map": true
 }
