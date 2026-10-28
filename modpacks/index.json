@@ -39,7 +39,8 @@
       "loader": "fabric",
       "loader_version": "0.20.1",
       "updated_at": "2026-10-28T11:52:09.033Z",
-      "for_map": true
+      "for_map": true,
+      "icon": "icon/deathmatch.png"
     }
   ]
 }
