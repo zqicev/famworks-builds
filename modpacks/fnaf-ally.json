@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-10-27T13:29:19.208Z",
+  "updated_at": "2026-11-05T12:46:35.772Z",
   "changelog": [],
   "mods": [
     {
@@ -843,13 +843,6 @@
       "extract": true
     },
     {
-      "path": "figura.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-901645cb578a-figura.zip",
-      "sha512": "901645cb578a40c487545ccd0caa23154ba012dad34cf2450b670f88696305c57d5f0823a997f6ec2d2565e6d7a1e08a9546fae5ff8445131a70c98d9f9a6e55",
-      "overwrite": false,
-      "extract": true
-    },
-    {
       "path": "shaderpacks/BSL_v10.1.3_IRLights.zip.txt",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-1cab19b76e8c-BSL_v10.1.3_IRLights.zip.txt",
       "sha512": "1cab19b76e8cbddecc7e72d0e77f3b8d26a957a294a2ae0d30cdaeda01803f4adb151aa11bd5f1a9a253a1d51a8a9215990bac96d02a106040fe6150eac7e310",
@@ -863,8 +856,15 @@
     },
     {
       "path": "saves.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-e74c38ca958f-saves.zip",
-      "sha512": "e74c38ca958fdab710febce1c8fc73011aa930162396b7e49f1556a578e139937f6588d926d74abbe956af28f910cdaee0bfee0e44740d9a581c8023088fa85f",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-7ff449566eb3-saves.zip",
+      "sha512": "7ff449566eb3ff53af8db57f6728ee0716193ea61a896adda57b9772a4f00c4c56b79c68f1858c8cd03066eb829cb29996fbebc78094a727e9ca043ae9066c79",
+      "overwrite": false,
+      "extract": true
+    },
+    {
+      "path": "figura.zip",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-51b865f9904c-figura.zip",
+      "sha512": "51b865f9904c29d2e1415a5cb75161cb3ab47d3f2cb4e975804d6dabde43dac114bf62f75c93310cc810cf792f56fa8af502924a1dff50190987c1874731e224",
       "overwrite": false,
       "extract": true
     }
