@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-11-05T12:56:17.144Z",
+  "updated_at": "2026-11-05T12:56:26.464Z",
   "changelog": [],
   "mods": [
     {
@@ -862,10 +862,11 @@
       "extract": true
     },
     {
-      "path": "config/saves.zip",
+      "path": "saves.zip",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-3aa76e9a3312-saves.zip",
       "sha512": "3aa76e9a3312a2e6853e05e0094b1696810e01048338d5246e5f3097c09412834b9e73de29c35a27ee87494b9829a0c381b6f3d8208afb4378c7e0eab87711dd",
-      "overwrite": false
+      "overwrite": false,
+      "extract": true
     }
   ],
   "resourcepacks": [
