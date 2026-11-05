@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-11-05T17:48:22.469Z",
+  "updated_at": "2026-11-05T22:41:25.384Z",
   "changelog": [],
   "mods": [
     {
@@ -304,27 +304,6 @@
       "category": "Кастом",
       "size_mb": 0,
       "required": false
-    },
-    {
-      "id": "famnpc-0-1-0",
-      "name": "famnpc-0.1.0",
-      "filename": "famnpc-0.1.0.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/famnpc-0.1.0.jar",
-      "sha512": "037f39bf84f813cb150e95460ca8f56c3ee98a97449c6cc4b43ec09b3e71400ff73f357884325bbbb12711c8c6dc7d992e3dbf47207859e219f434fdff20884e",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 1.6,
-      "required": false
-    },
-    {
-      "id": "famrockcore",
-      "name": "FamrockCore",
-      "filename": "famrockcore-1.0.0.jar",
-      "version": "1.0.0",
-      "size_mb": 0,
-      "required": false,
-      "famworks_id": "famrockcore",
-      "category": "FamWorks"
     },
     {
       "id": "ferrite-core",
