@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-11-06T00:14:22.610Z",
+  "updated_at": "2026-11-06T00:34:07.768Z",
   "changelog": [],
   "mods": [
     {
@@ -781,17 +781,6 @@
       "category": "Мод"
     },
     {
-      "id": "irlights_flashlight",
-      "name": "IRLights Flashlight",
-      "famworks_id": "irlights_flashlight",
-      "famworks_version": "1.0.5+mc1.21.1",
-      "filename": "irlights-flashlight-1.0.5+mc1.21.1.jar",
-      "version": "1.0.5+mc1.21.1",
-      "category": "FamWorks",
-      "size_mb": 0.19,
-      "required": false
-    },
-    {
       "id": "famnpc",
       "name": "FamNPC",
       "famworks_id": "famnpc",
@@ -822,6 +811,17 @@
       "version": "1.1.8+mc1.21.1",
       "category": "FamWorks",
       "size_mb": 7.74,
+      "required": false
+    },
+    {
+      "id": "irlights_flashlight",
+      "name": "IRLights Flashlight",
+      "famworks_id": "irlights_flashlight",
+      "famworks_version": "1.0.13+mc1.21.1",
+      "filename": "irlights-flashlight-1.0.13+mc1.21.1.jar",
+      "version": "1.0.13+mc1.21.1",
+      "category": "FamWorks",
+      "size_mb": 0.35,
       "required": false
     }
   ],
@@ -867,18 +867,17 @@
       "extract": true
     },
     {
-      "path": "saves.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-ae53715fc0a0-saves.zip",
-      "sha512": "ae53715fc0a0d045860c6adff16b462493e16cd37f56f44d732f7ac1328e702c07bd9a09a9c7eb2bbc73179868676d525dca5a693c84b401b439557ea0fc65e0",
-      "overwrite": false,
-      "extract": true
-    },
-    {
       "path": "figura.zip",
       "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-c71d240cb8fe-figura.zip",
       "sha512": "c71d240cb8fe007bcc68b8f8a6568efdef6cc9a6b5f4abcb38888e1a98f76b80beb7614fbf6164f0ccf71697e1178335512ddb6d742bffb719bcc56ed77db012",
       "overwrite": false,
       "extract": true
+    },
+    {
+      "path": "saves.zip",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-971e6243021b-saves.zip",
+      "sha512": "971e6243021b21d56355e23264c7a4124c64a2e2ec5dea08b39b80789c1cd53b4b304372f4bf270346f4f216b336f2dff89eee44f707beeaec02f665f3b6f5af",
+      "overwrite": false
     }
   ],
   "resourcepacks": [
