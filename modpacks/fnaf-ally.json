@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.5",
   "fabric_api_version": "",
-  "updated_at": "2026-11-05T23:50:21.846Z",
+  "updated_at": "2026-11-06T00:05:23.146Z",
   "changelog": [],
   "mods": [
     {
@@ -860,23 +860,23 @@
       "overwrite": false
     },
     {
-      "path": "figura.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-51b865f9904c-figura.zip",
-      "sha512": "51b865f9904c29d2e1415a5cb75161cb3ab47d3f2cb4e975804d6dabde43dac114bf62f75c93310cc810cf792f56fa8af502924a1dff50190987c1874731e224",
+      "path": "config.zip",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-94bb8aa5d788-config.zip",
+      "sha512": "94bb8aa5d788f4abcba68d60d76f0cdbb697e6404d0cf3c64f219b30143bdf59a0ccb8bd0f9c06e3f77b37b9999f84b5f6e48ea6908145bb05b7368a4fbd68c9",
       "overwrite": false,
       "extract": true
     },
     {
-      "path": "config.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-818a9655a612-config.zip",
-      "sha512": "818a9655a6124d91ef237695d22a1c85d051d07e62b8854c38640d6bbd4e2644b4c28f2f4e3325d43e1b17cfa740264e71a221a3c319d41eeb1e82262598c1e7",
+      "path": "figura.zip",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-2768167483cb-figura.zip",
+      "sha512": "2768167483cb78e909804e2e1fa6cdbb539773a9e11d2ce0566e95401164fdeb475300797fca3104858cc4d062847a4287d55eb5abc37b78d30bd45868ab1a09",
       "overwrite": false,
       "extract": true
     },
     {
       "path": "saves.zip",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-03bced1776b1-saves.zip",
-      "sha512": "03bced1776b1f5c3e3f29dc21a1c35c5a30da75a72a3ddb24acaff405e352fe0d89ad09c76d0dedb8d7c87555ebcf3ec935eae9fbf632acb45827ed855d89603",
+      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/cfg-ae53715fc0a0-saves.zip",
+      "sha512": "ae53715fc0a0d045860c6adff16b462493e16cd37f56f44d732f7ac1328e702c07bd9a09a9c7eb2bbc73179868676d525dca5a693c84b401b439557ea0fc65e0",
       "overwrite": false,
       "extract": true
     }
