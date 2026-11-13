@@ -1,0 +1,7 @@
+{
+  "$comment": "Udalyonnye flagi launchera FamWorks. killSwitch:true - zablokirovat zapusk; message - tekst polzovatelyu; minVersion - zastavit obnovitsya versii nizhe; disabled - vyklyuchit fichi po imeni (naprimer autoBackup, cyrillicShortPath).",
+  "killSwitch": false,
+  "message": "",
+  "minVersion": "",
+  "disabled": []
+}
