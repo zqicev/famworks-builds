@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-10-12T05:54:10.649Z",
+  "updated_at": "2026-11-19T19:18:40.052Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -723,6 +723,66 @@
       "category": "Мод",
       "size_mb": 2.6,
       "required": true
+    },
+    {
+      "id": "famcontrol",
+      "name": "FamControl",
+      "famworks_id": "famcontrol",
+      "filename": "famcontrol-0.1.41.jar",
+      "version": "0.1.41",
+      "category": "FamWorks",
+      "size_mb": 0.92,
+      "required": false
+    },
+    {
+      "id": "famfigurarig",
+      "name": "FamFiguraRig",
+      "famworks_id": "famfigurarig",
+      "filename": "famfigurarig-1.0.42.jar",
+      "version": "1.0.42",
+      "category": "FamWorks",
+      "size_mb": 10.43,
+      "required": false
+    },
+    {
+      "id": "famguns",
+      "name": "FamGuns",
+      "famworks_id": "famguns",
+      "filename": "famguns-0.4.3.jar",
+      "version": "0.4.3",
+      "category": "FamWorks",
+      "size_mb": 0.25,
+      "required": false
+    },
+    {
+      "id": "famnpc",
+      "name": "FamNPC",
+      "famworks_id": "famnpc",
+      "filename": "famnpc-0.1.0.jar",
+      "version": "0.1.2",
+      "category": "FamWorks",
+      "size_mb": 1.67,
+      "required": false
+    },
+    {
+      "id": "irlights_flashlight",
+      "name": "IRLights Flashlight",
+      "famworks_id": "irlights_flashlight",
+      "filename": "irlights-flashlight-1.0.13+mc1.21.1.jar",
+      "version": "1.0.13+mc1.21.1",
+      "category": "FamWorks",
+      "size_mb": 0.35,
+      "required": false
+    },
+    {
+      "id": "famcars",
+      "name": "FamCars",
+      "famworks_id": "famcars",
+      "filename": "famcars-0.1.108.jar",
+      "version": "0.1.108",
+      "category": "FamWorks",
+      "size_mb": 0.94,
+      "required": false
     }
   ],
   "resourcepacks": [
