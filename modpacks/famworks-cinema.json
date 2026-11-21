@@ -7,7 +7,7 @@
   "loader": "fabric",
   "loader_version": "0.19.3",
   "fabric_api_version": "0.116.14+1.21.1",
-  "updated_at": "2026-11-19T19:19:51.760Z",
+  "updated_at": "2026-11-21T16:26:41.125Z",
   "changelog": [
     {
       "version": "1.21.1",
@@ -108,7 +108,7 @@
       "version": "2.4.12+1.21.1-fabric",
       "category": "adventure",
       "size_mb": 0.8,
-      "required": false
+      "required": true
     },
     {
       "id": "entity-model-features",
@@ -293,19 +293,6 @@
       "required": false
     },
     {
-      "id": "not-enough-animations",
-      "name": "Not Enough Animations",
-      "modrinth_id": "MPCX6s5C",
-      "modrinth_version_number": "1.12.4",
-      "download_url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/HyecdWuC/notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
-      "filename": "notenoughanimations-fabric-1.12.4-mc1.21.1.jar",
-      "sha512": "c5880052f030f6f26b00da5d5fdd4d2efa83174dafb89ec674da8fc9671beaecd1d07a17ab8154b718cdca1a953da827b61ffbd5de62b852191d40b67eddeb83",
-      "version": "1.12.4",
-      "category": "adventure",
-      "size_mb": 1.9,
-      "required": false
-    },
-    {
       "id": "modelfix",
       "name": "Model Gap Fix",
       "modrinth_id": "QdG47OkI",
@@ -342,7 +329,7 @@
       "version": "0.9.2",
       "category": "decoration",
       "size_mb": 0.2,
-      "required": false
+      "required": true
     },
     {
       "id": "worldedit",
@@ -462,19 +449,6 @@
       "required": false
     },
     {
-      "id": "entity-pin-cushions",
-      "name": "Entity Pin Cushions",
-      "modrinth_id": "YtDL53HG",
-      "modrinth_version_number": "1.0",
-      "download_url": "https://cdn.modrinth.com/data/YtDL53HG/versions/WAy5rzSW/entity_pin_cushions-fabric-1.21-1.0.jar",
-      "filename": "entity_pin_cushions-fabric-1.21-1.0.jar",
-      "sha512": "e0eea40b2872fe9e65473732196a5093c3d2180f0c8f31ba7aea2084f47e74401e6957d5ef5458016e7aec481b1c47ecd02f085203b667bc4c3f84a4efc0289a",
-      "version": "1.0",
-      "category": "fabric",
-      "size_mb": 0,
-      "required": false
-    },
-    {
       "id": "language-reload",
       "name": "Language Reload",
       "modrinth_id": "uLbm7CG6",
@@ -574,17 +548,6 @@
       "version": "",
       "category": "Кастом",
       "size_mb": 0,
-      "required": true
-    },
-    {
-      "id": "flashbackfigurasinc-1-0-57",
-      "name": "flashbackfigurasinc-1.0.57",
-      "filename": "flashbackfigurasinc-1.0.57.jar",
-      "download_url": "https://github.com/zqicev/famworks-builds/releases/download/mods/flashbackfigurasinc-1.0.57.jar",
-      "sha512": "4f77d8e5a0041d30e1a7ab174d6458e291fd0c2f3f1c21acb1758e15831c23ed24291ed1c9cbb325700bf49e64245565d0ac09902842ef3718ba3df11cb753ba",
-      "version": "",
-      "category": "Кастом",
-      "size_mb": 0.2,
       "required": true
     },
     {
@@ -710,7 +673,7 @@
       "version": "0.1.0",
       "category": "FamWorks",
       "size_mb": 2.88,
-      "required": false
+      "required": true
     },
     {
       "id": "customfigura",
@@ -732,7 +695,7 @@
       "version": "0.1.41",
       "category": "FamWorks",
       "size_mb": 0.92,
-      "required": false
+      "required": true
     },
     {
       "id": "famfigurarig",
@@ -742,7 +705,7 @@
       "version": "1.0.42",
       "category": "FamWorks",
       "size_mb": 10.43,
-      "required": false
+      "required": true
     },
     {
       "id": "famguns",
@@ -752,7 +715,7 @@
       "version": "0.4.3",
       "category": "FamWorks",
       "size_mb": 0.25,
-      "required": false
+      "required": true
     },
     {
       "id": "famnpc",
@@ -762,7 +725,7 @@
       "version": "0.1.2",
       "category": "FamWorks",
       "size_mb": 1.67,
-      "required": false
+      "required": true
     },
     {
       "id": "irlights_flashlight",
@@ -772,7 +735,7 @@
       "version": "1.0.13+mc1.21.1",
       "category": "FamWorks",
       "size_mb": 0.35,
-      "required": false
+      "required": true
     },
     {
       "id": "famcars",
@@ -782,7 +745,7 @@
       "version": "0.1.108",
       "category": "FamWorks",
       "size_mb": 0.94,
-      "required": false
+      "required": true
     },
     {
       "id": "fpemotes",
@@ -792,7 +755,7 @@
       "version": "2.0.0",
       "category": "FamWorks",
       "size_mb": 0.12,
-      "required": false
+      "required": true
     }
   ],
   "resourcepacks": [
